@@ -31,5 +31,38 @@ background-color: rgb(162, 192, 183);
 border-color: yellow;
 border-style: groove;
 border-width: 15px;
+padding: 12px;
     
+}
+.article h2{
+    text-align: center;
+    font-size: 40px;
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+.photo img{
+    width: 200px;
+    
+}
+.photo{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+}
+.cows-heading{
+    text-align: center;
+    font-size: 40px;
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
 }
