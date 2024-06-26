@@ -1,0 +1,108 @@
+ /* banner related style */
+ div {
+     width: 1320px;
+     height: 600px;
+     border-radius: 16px;
+     background-image: url('images/Banner\ Image.png');
+     margin: 200px 200px;
+
+    padding
+ }
+
+ .banner-title {
+     font-family: 'Open Sans', sans-serif;
+
+     color: #f1e5e5;
+     text-align: center;
+     font-size: 26px;
+     font-weight: 700;
+     /* padding: 177px 530px 383px 530px; */
+ }
+
+ .banner-big-title {
+
+     font-family: 'Open Sans', sans-serif;
+     color: #e0c5c5;
+     font-size: 466%;
+     font-weight: 700;
+    margin-left: 150px;
+
+ }
+
+ /* new year related style */
+
+.our-deals{
+    font-size: 40px;
+    margin-bottom: 9px;
+}
+.catagories{
+    font-size: 27px;
+}
+
+ .new-year {
+     position: center;
+ }
+
+
+ /* 65% of related style */
+ section {
+     text-align: center;
+     color: rgb(209, 16, 16);
+ }
+
+ .catagories {
+     color: black;
+ }
+
+ .first-offer {
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 700;
+     font-size: 88px;
+ }
+
+ /* welcome to midnight party related style */
+
+ .welcome-to-midnight-party{
+     background-image: url('images/Vectorrr.png');
+
+      font-size: 40px;
+      color: antiquewhite;
+      padding-left: 50px;
+      width: 1200px;
+  
+
+     
+     
+ }
+
+ 
+
+
+ .place-time-date{
+    width:1320px;
+    height:482px;
+    background-color:#e1f2f4;
+    margin: 200px 200px;
+    padding-top: 180px;
+    border-radius: 20px;
+    
+ }
+ .address{
+    font-size: 40px;
+ }
+ .P,.D,.T{
+    color:red;
+ }
+ .place-button{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+ }
+ .button-join{
+     color:black;
+     background-color: rgb(255, 255, 255);
+        
+ }
+ 
