@@ -1,0 +1,11 @@
+.upper-footer{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+}
+
+.upper-footer>div{
+    border: 1px solid green;
+}
