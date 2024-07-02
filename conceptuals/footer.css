@@ -1,11 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .upper-footer{
     border: 2px solid red;
     display: flex;
     justify-content: space-between;
     background-color: black;
-    color: aliceblue;
+    color: white;
+    padding: 20px;
+    /* height: 300px; */
+    align-items:center ;
+    /* flex-direction: column;
+    jus */
+    flex-wrap: wrap;
+
 }
 
+
 .upper-footer>div{
-    border: 1px solid green;
+    /* border: 1px solid green; */
+    width: 24%;
+    flex-basis: 200px;
+    
+}
+.news-input{
+    display: block;
+    height: 30px;
+    width: 60%;
+    border-radius: 3px;
+}
+.news-submit{
+    display: block;
+    height: 35px;
+    width: 60%;
+    background-color:yellow;
+    border-radius: 10px;
+    
+    
+}
+.lower-footer{
+display: flex;
+background-color:rgb(222, 206, 206);
+height: 60px;
+justify-content: space-between;
+align-items: center;
+text-shadow: 2px;
+
+}
+.lower-footer>div>a{
+    padding-left: 10px;
+    text-decoration: none;
+    
+}
+.copy{
+    padding-right: 15px;
 }
